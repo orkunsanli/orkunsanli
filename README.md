@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @orkunsanli
 - 👀 I’m interested in Front-End, Back-End and Full-Stack development right now.
 - 🌱 I’m currently working as a .NET Developer
-- 💞️ I’m looking to collaborate on Europe Companies
+- 💞️ I’m looking to collaborate on Companies
 - 📫 How to reach me;
     - orkunsanlii@gmail.com
     - https://www.linkedin.com/in/orkunsanli
